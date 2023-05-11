@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02 Template Method/02 Template Method.iml" filepath="$PROJECT_DIR$/02 Template Method/02 Template Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 Template Method/03 Template Method.iml" filepath="$PROJECT_DIR$/03 Template Method/03 Template Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 Chain of Responsability/04 Chain of Responsability.iml" filepath="$PROJECT_DIR$/04 Chain of Responsability/04 Chain of Responsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BACK.iml" filepath="$PROJECT_DIR$/.idea/BACK.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,6 +1,5 @@
 package tests;
 
-import modelos.Empleado;
 import modelos.EmpleadoClasico;
 import modelos.EmpleadoInfantil;
 import modelos.EmpleadoVeggie;
