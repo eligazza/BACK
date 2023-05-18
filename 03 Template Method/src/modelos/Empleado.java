@@ -5,13 +5,13 @@ import java.util.ArrayList;
 public class Empleado extends Vendedor {
 
     // ATRIBUTOS
-    private ArrayList<Vendedor> listaDeAfiliados = new ArrayList<>();
+    private ArrayList<Vendedor> listaDeAfiliados;
     private int antiguedad;
 
     // CONSTRUCTOR
-    public Empleado(String nombre, int cantidadDeVentas, int puntaje, ArrayList<Vendedor> listaDeAfiliados, int antiguedad) {
+    public Empleado(String nombre, int cantidadDeVentas, int puntaje, int antiguedad) {
         super(nombre, cantidadDeVentas, puntaje);
-        this.listaDeAfiliados = listaDeAfiliados;
+        this.listaDeAfiliados = new ArrayList<Vendedor>();
         this.antiguedad = antiguedad;
     }
 

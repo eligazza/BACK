@@ -15,15 +15,15 @@ public abstract class Vendedor {
     }
 
     // METODOS
-    public void cerrarVenta() {
-        this.cantidadDeVentas++;
+    public void cerrarVenta(int numeroDeVentas) {
+        this.cantidadDeVentas += numeroDeVentas;
     }
 
     public String mostrarCategoria() {
         String nombre = this.getNombre();
         String categoria = this.getCategoria();
         int puntos = this.calcularPuntos();
-        return ("VENDEDOR " + nombre + ": " + categoria + "(" + puntos + " puntos)");
+        return ("VENDEDOR " + nombre + ": " + categoria + " (" + puntos + " puntos)");
     }
     private String getCategoria(){
         int puntos = calcularPuntos();

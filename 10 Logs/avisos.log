@@ -1,0 +1,6 @@
+[2023-05-18 01:30:13] [INFO ] [ListaEnterosService:25] La longitud de la lista es mayor a 10
+[2023-05-18 01:30:13] [INFO ] [ListaEnterosService:40] El promedio es: 39.166666666666664
+[2023-05-18 01:30:56] [ERROR] [ListaEnterosService:28] La lista es igual a cero
+[2023-05-18 01:30:56] [INFO ] [ListaEnterosService:40] El promedio es: NaN
+[2023-05-18 01:30:58] [ERROR] [ListaEnterosService:28] La lista es igual a cero
+[2023-05-18 01:30:58] [INFO ] [ListaEnterosService:40] El promedio es: NaN

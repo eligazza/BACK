@@ -11,11 +11,11 @@ public class TestEmpleado {
     @Test
     public void calcular_precio_menu_clasico() {
         // Arrange
-        EmpleadoClasico empleadoClasico01 = new EmpleadoClasico();
+        EmpleadoClasico empleadoclasico01 = new EmpleadoClasico();
         double resultadoEsperado = 1000.00;
         // Act
-        empleadoClasico01.prepararMenu();
-        double resultadoObtenido = empleadoClasico01.getPrecioFinal();
+        empleadoclasico01.prepararMenu();
+        double resultadoObtenido = empleadoclasico01.getPrecioFinal();
         // Assert
         Assertions.assertEquals(resultadoEsperado,resultadoObtenido);
     }
