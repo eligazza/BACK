@@ -30,8 +30,12 @@ public class H2db {
 
     public void crearTablaUsuarios(Connection connection){
 
-        // Creo la tabla
+        // Creo la tabla y elimino si había otra con el mismo nombre
         try {
+            String queryDrop = "DROP TABLE IF EXISTS USUARIOS";
+            Statement statementDrop = connection.createStatement();
+            statementDrop.execute(queryDrop);
+
             String queryCreate = "CREATE TABLE USUARIOS (" +
                     "ID INT PRIMARY KEY, " +
                     "NOMBRE VARCHAR(25) NOT NULL, " +
@@ -72,11 +76,12 @@ public class H2db {
         try{
             String queryDelete = "DELETE FROM USUARIOS where ID = '" + id + "'";
             Statement statementDelete = connection.createStatement();
-            statementDelete.executeQuery(queryDelete);
+            statementDelete.execute(queryDelete);
 
         } catch (SQLException e) {
             System.out.println("Error al borrar registro");
             throw new RuntimeException(e);
         }
     }
+
 }
