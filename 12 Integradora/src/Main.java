@@ -26,7 +26,12 @@ public class Main {
         db.insertarUsuario(connection, user02);
         db.insertarUsuario(connection, user03);
 
+        // Imprimo resultados
+        db.imprimirResultados(connection);
+
         // Elimino 1 usuario usando la conexión creada
         db.eliminarUsuario(connection, 3);
+        db.imprimirResultados(connection);
+
     }
 }

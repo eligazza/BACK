@@ -2,10 +2,7 @@ package db;
 
 import modelos.Usuario;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 
 public class H2db {
 
@@ -84,4 +81,23 @@ public class H2db {
         }
     }
 
+    public void imprimirResultados(Connection connection) {
+
+        // Selecciono toda la tabla y la guardo como resultado
+        try{
+            Statement statementSelect = connection.createStatement();
+            String selectAll = "SELECT * FROM USUARIOS";
+            ResultSet resultado = statementSelect.executeQuery(selectAll); // Acá se pone executeQuery porque no espera booleano, sino un dataset
+            while (resultado.next()) {
+                System.out.println("ID: " + resultado.getInt(1) +
+                        ", Nombre:" + resultado.getString(2) +
+                        ", Apellido: " + resultado.getString(3) +
+                        ", Edad: " + resultado.getInt(4));
+            }
+
+        } catch (SQLException e) {
+            System.out.println("Error al imprimir tabla");
+            throw new RuntimeException(e);
+        }
+    }
 }
