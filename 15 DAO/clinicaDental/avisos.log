@@ -1,0 +1,43 @@
+[2023-05-25 16:51:44] [ERROR] [PacienteDAOH2:26] Error de Sintaxis en sentencia SQL "[*]GO\000d\000aCREATE TABLE PACIENTES IF NOT EXISTS (\000d\000a    id INT AUTO_INCREMENT PRIMARY KEY,\000d\000a    apellido VARCHAR(25),\000d\000a    nombre VARCHAR(25),\000d\000a    dni VARCHAR(25),\000d\000a    fechaIngreso VARCHAR(25)\000d\000a)"; se esperaba "GRANT"
+Syntax error in SQL statement "[*]GO\000d\000aCREATE TABLE PACIENTES IF NOT EXISTS (\000d\000a    id INT AUTO_INCREMENT PRIMARY KEY,\000d\000a    apellido VARCHAR(25),\000d\000a    nombre VARCHAR(25),\000d\000a    dni VARCHAR(25),\000d\000a    fechaIngreso VARCHAR(25)\000d\000a)"; expected "GRANT"; SQL statement:
+GO
+CREATE TABLE PACIENTES IF NOT EXISTS (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    apellido VARCHAR(25),
+    nombre VARCHAR(25),
+    dni VARCHAR(25),
+    fechaIngreso VARCHAR(25)
+) [42001-214]
+[2023-05-25 16:52:36] [ERROR] [PacienteDAOH2:26] Error de Sintaxis en sentencia SQL "CREATE TABLE PACIENTES [*]IF NOT EXISTS (\000d\000a    id INT AUTO_INCREMENT PRIMARY KEY,\000d\000a    apellido VARCHAR(25),\000d\000a    nombre VARCHAR(25),\000d\000a    dni VARCHAR(25),\000d\000a    fechaIngreso VARCHAR(25)\000d\000a)"
+Syntax error in SQL statement "CREATE TABLE PACIENTES [*]IF NOT EXISTS (\000d\000a    id INT AUTO_INCREMENT PRIMARY KEY,\000d\000a    apellido VARCHAR(25),\000d\000a    nombre VARCHAR(25),\000d\000a    dni VARCHAR(25),\000d\000a    fechaIngreso VARCHAR(25)\000d\000a)"; SQL statement:
+CREATE TABLE PACIENTES IF NOT EXISTS (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    apellido VARCHAR(25),
+    nombre VARCHAR(25),
+    dni VARCHAR(25),
+    fechaIngreso VARCHAR(25)
+) [42000-214]
+[2023-05-25 16:55:39] [ERROR] [PacienteDAOH2:26] La base de datos puede que ya esté siendo utilizada: "C:/Users/gazza/clinica.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/gazza/clinica.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 16:56:11] [ERROR] [PacienteDAOH2:26] Error de Sintaxis en sentencia SQL "CREATE TABLE PACIENTES [*]IF NOT EXISTS (\000d\000a    id INT AUTO_INCREMENT PRIMARY KEY,\000d\000a    apellido VARCHAR(25),\000d\000a    nombre VARCHAR(25),\000d\000a    dni VARCHAR(25),\000d\000a    fechaIngreso VARCHAR(25)\000d\000a)"
+Syntax error in SQL statement "CREATE TABLE PACIENTES [*]IF NOT EXISTS (\000d\000a    id INT AUTO_INCREMENT PRIMARY KEY,\000d\000a    apellido VARCHAR(25),\000d\000a    nombre VARCHAR(25),\000d\000a    dni VARCHAR(25),\000d\000a    fechaIngreso VARCHAR(25)\000d\000a)"; SQL statement:
+CREATE TABLE PACIENTES IF NOT EXISTS (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    apellido VARCHAR(25),
+    nombre VARCHAR(25),
+    dni VARCHAR(25),
+    fechaIngreso VARCHAR(25)
+) [42000-214]
+[2023-05-25 16:57:39] [ERROR] [PacienteDAOH2:26] Error de Sintaxis en sentencia SQL "CREATE TABLE PACIENTES [*]IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25))"
+Syntax error in SQL statement "CREATE TABLE PACIENTES [*]IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25))"; SQL statement:
+CREATE TABLE PACIENTES IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25)) [42000-214]
+[2023-05-25 16:58:06] [ERROR] [PacienteDAOH2:26] Error de Sintaxis en sentencia SQL "CREATE TABLE PACIENTES [*]IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25))"
+Syntax error in SQL statement "CREATE TABLE PACIENTES [*]IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25))"; SQL statement:
+CREATE TABLE PACIENTES IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25)) [42000-214]
+[2023-05-25 16:58:26] [ERROR] [PacienteDAOH2:26] Error de Sintaxis en sentencia SQL "CREATE TABLE PACIENTES [*]IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25))"
+Syntax error in SQL statement "CREATE TABLE PACIENTES [*]IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25))"; SQL statement:
+CREATE TABLE PACIENTES IF NOT EXISTS (id INT AUTO_INCREMENT PRIMARY KEY, apellido VARCHAR(25), nombre VARCHAR(25), dni VARCHAR(25), fechaIngreso VARCHAR(25)) [42000-214]
+[2023-05-25 16:59:53] [INFO ] [PacienteDAOH2:71] Se insertó/insertaron 1 registros
+[2023-05-25 17:04:54] [INFO ] [PacienteDAOH2:105] Se consultó por el paciente Aciar
+[2023-05-25 17:05:54] [INFO ] [PacienteDAOH2:105] Se consultó por el paciente Aciar
+[2023-05-25 17:05:54] [INFO ] [PacienteDAOH2:71] Se insertó/insertaron 1 registros

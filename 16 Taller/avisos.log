@@ -1,0 +1,44 @@
+[2023-05-27 00:41:50] [INFO ] [DomicilioDaoH2:43] Se afectaron: 1 filas
+[2023-05-27 00:41:50] [INFO ] [PacienteDaoH2:44] Se afectaron: 1 filas
+[2023-05-27 00:41:51] [INFO ] [DomicilioDaoH2:43] Se afectaron: 1 filas
+[2023-05-27 00:41:51] [INFO ] [PacienteDaoH2:44] Se afectaron: 1 filas
+[2023-05-27 00:43:04] [INFO ] [DomicilioDaoH2:43] Se afectaron: 1 filas
+[2023-05-27 00:43:04] [INFO ] [PacienteDaoH2:44] Se afectaron: 1 filas
+[2023-05-27 00:43:04] [INFO ] [DomicilioDaoH2:43] Se afectaron: 1 filas
+[2023-05-27 00:43:05] [INFO ] [PacienteDaoH2:44] Se afectaron: 1 filas
+[2023-05-27 00:44:07] [INFO ] [DomicilioDaoH2:43] Se afectaron: 1 filas
+[2023-05-27 00:44:07] [INFO ] [PacienteDaoH2:44] Se afectaron: 1 filas
+[2023-05-27 00:44:07] [INFO ] [DomicilioDaoH2:43] Se afectaron: 1 filas
+[2023-05-27 00:44:07] [INFO ] [PacienteDaoH2:44] Se afectaron: 1 filas
+[2023-05-27 00:53:52] [INFO ] [DomicilioDaoH2:50] Se afectaron: 1 filas
+[2023-05-27 00:53:52] [INFO ] [PacienteDaoH2:45] Se afectaron: 1 filas
+[2023-05-27 00:53:52] [INFO ] [DomicilioDaoH2:50] Se afectaron: 1 filas
+[2023-05-27 00:53:52] [INFO ] [PacienteDaoH2:45] Se afectaron: 1 filas
+[2023-05-27 01:48:31] [ERROR] [DomicilioDaoH2:55] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+INSERT INTO DOMICILIOS (CALLE,NUMERO,LOCALIDAD,PROVINCIA) VALUES (?,?,?,?); [42104-214]
+[2023-05-27 01:49:37] [INFO ] [DomicilioDaoH2:52] Se afectaron: 1 filas
+[2023-05-27 01:49:37] [INFO ] [PacienteDaoH2:47] Se afectaron: 1 filas
+[2023-05-27 01:49:37] [INFO ] [DomicilioDaoH2:52] Se afectaron: 1 filas
+[2023-05-27 01:49:37] [INFO ] [PacienteDaoH2:47] Se afectaron: 1 filas
+[2023-05-27 01:49:37] [ERROR] [DomicilioDaoH2:96] No fue posible eliminar el domicilio con id 1
+[2023-05-27 01:49:37] [ERROR] [PacienteDaoH2:91] No fue posible eliminar el paciente con id 1
+[2023-05-27 01:52:30] [ERROR] [DomicilioDaoH2:55] La base de datos puede que ya esté siendo utilizada: "C:/Users/gazza/clinicaC2.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/gazza/clinicaC2.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-27 01:53:11] [ERROR] [DomicilioDaoH2:96] Tabla "DOMICILIO" no encontrada
+Table "DOMICILIO" not found; SQL statement:
+SELECT * FROM DOMICILIO WHERE ID=? [42102-214]
+[2023-05-27 01:53:11] [ERROR] [PacienteDaoH2:91] Columna "domicilio" no encontrada
+Column "domicilio" not found [42122-214]
+[2023-05-27 01:53:40] [WARN ] [DomicilioDaoH2:92] Se ha eliminado el domicilio con ID: 1
+[2023-05-27 01:53:40] [ERROR] [PacienteDaoH2:91] Columna "domicilio" no encontrada
+Column "domicilio" not found [42122-214]
+[2023-05-27 01:54:57] [ERROR] [DomicilioDaoH2:96] Table "DOMICILIOS" not found (this database is empty); SQL statement:
+SELECT * FROM DOMICILIOS WHERE ID=? [42104-214]
+[2023-05-27 01:54:57] [ERROR] [PacienteDaoH2:91] Table "PACIENTES" not found (this database is empty); SQL statement:
+SELECT * FROM PACIENTES WHERE ID = ? [42104-214]
+[2023-05-27 01:55:33] [INFO ] [DomicilioDaoH2:52] Se afectaron: 1 filas
+[2023-05-27 01:55:33] [INFO ] [PacienteDaoH2:47] Se afectaron: 1 filas
+[2023-05-27 01:55:33] [INFO ] [DomicilioDaoH2:52] Se afectaron: 1 filas
+[2023-05-27 01:55:33] [INFO ] [PacienteDaoH2:47] Se afectaron: 1 filas
+[2023-05-27 01:55:33] [WARN ] [DomicilioDaoH2:92] Se ha eliminado el domicilio con ID: 1
+[2023-05-27 01:55:33] [ERROR] [PacienteDaoH2:91] class java.lang.Integer cannot be cast to class ar.com.dh.model.Domicilio (java.lang.Integer is in module java.base of loader 'bootstrap'; ar.com.dh.model.Domicilio is in unnamed module of loader 'app')

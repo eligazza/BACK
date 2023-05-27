@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d90fb6ed-1c51-4b11-9da7-e8dc5459137f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../---machetes/lgo4j_properties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../---machetes/log4j Logger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09 Integrador/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/clase14-diagrama.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/clase14-diagrama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/create_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/dao/DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/dao/MedicamentoDAOH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/dao/previous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/modelos/Medicamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/servicios/MedicamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/tests/MedicamentoDAOH2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/tests/MedicamentoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00 TP INTEGRADOR/daigrama-integrador.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../00 TP INTEGRADOR/daigrama-integrador.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 Integrador/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09 Integrador/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lgo4j_properties.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QGRK7xWg00fpNG6joMT3iRp2HO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/BACK/15 DAO&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ar.com.dh.model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ar.com.dh.dao" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90fb6ed-1c51-4b11-9da7-e8dc5459137f" name="Changes" comment="" />
+      <created>1684977873097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684977873097</updated>
+    </task>
+    <servers />
+  </component>
+</project>
