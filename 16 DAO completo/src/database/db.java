@@ -14,7 +14,7 @@ public class db {
 
     // H2 Database Info
     public static final String H2DRIVER = "org.h2.Driver";
-    public static final String H2URL = "jdbc:h2:~/examen";
+    public static final String H2URL = "jdbc:h2:~/kinesiologos";
     public static final String USER = "sa";
     public static final String PASSWORD = "sa";
 
@@ -36,7 +36,6 @@ public class db {
 
     // Este método lo vamos a usar para crear las tablas. La idea es llamarlo solamente cuando lo necesitemos. Crear las tablas en el main o en test, pero una sola vez.
     public static void tablaH2(String sql) {
-
         try {
             Connection connection = db.conectarH2();
             Statement stmt = connection.createStatement();

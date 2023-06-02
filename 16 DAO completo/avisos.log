@@ -1,0 +1,133 @@
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:80] Error de Sintaxis en sentencia SQL "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"
+Syntax error in SQL statement "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"; SQL statement:
+DELETE FROM KINESIOLOGOS WHERE ID=?) [42000-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:23] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:26:24] [ERROR] [KinesiologoDaoH2:47] Columna "ATIENDE_OBRASOCIAL" no encontrada
+Column "ATIENDE_OBRASOCIAL" not found; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42122-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:80] Error de Sintaxis en sentencia SQL "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"
+Syntax error in SQL statement "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"; SQL statement:
+DELETE FROM KINESIOLOGOS WHERE ID=?) [42000-214]
+[2023-05-29 17:27:02] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:03] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:03] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:03] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:03] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:27:03] [ERROR] [KinesiologoDaoH2:47] Error de Sintaxis en sentencia SQL "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; se esperaba "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL)[*], VALUES(?, ?, ?, ?)"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, SORTED, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO KINESIOLOGOS (NOMBRE, APELLIDO, ANIO_NACIMIENTO, ATIENDE_OBRASOCIAL), VALUES(?, ?, ?, ?) [42001-214]
+[2023-05-29 17:28:30] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: rs2: org.h2.result.LocalResult@41488b16 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:30] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Gazza, Elias> agregado al registro. Se le asignó el ID: rs4: org.h2.result.LocalResult@4b86805d columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:30] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: rs9: org.h2.result.LocalResult@4bbf6d0e columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:30] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Gazza, Elias> agregado al registro. Se le asignó el ID: rs11: org.h2.result.LocalResult@2415fc55 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:30] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Amado, Marcos> agregado al registro. Se le asignó el ID: rs13: org.h2.result.LocalResult@24c22fe columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:30] [ERROR] [KinesiologoDaoH2:80] Error de Sintaxis en sentencia SQL "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"
+Syntax error in SQL statement "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"; SQL statement:
+DELETE FROM KINESIOLOGOS WHERE ID=?) [42000-214]
+[2023-05-29 17:28:30] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: rs18: org.h2.result.LocalResult@5e21e98f columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:31] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Gazza, Elias> agregado al registro. Se le asignó el ID: rs20: org.h2.result.LocalResult@72ade7e3 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:31] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Amado, Marcos> agregado al registro. Se le asignó el ID: rs22: org.h2.result.LocalResult@609bcfb6 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:31] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: rs27: org.h2.result.LocalResult@4d6025c5 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:31] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Gazza, Elias> agregado al registro. Se le asignó el ID: rs29: org.h2.result.LocalResult@4ea5b703 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:28:31] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Amado, Marcos> agregado al registro. Se le asignó el ID: rs31: org.h2.result.LocalResult@2cb2fc20 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:29:43] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: rs2: org.h2.result.LocalResult@3f1d2e23 columns: 1 rows: 1 pos: -1
+[2023-05-29 17:29:43] [INFO ] [KinesiologoDaoH2:39] Se modificó 1fila/s.  <Gazza, Elias> agregado al registro. Se le asignó el ID: rs4: org.h2.result.LocalResult@2e570ded columns: 1 rows: 1 pos: -1
+[2023-05-29 17:33:00] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s.  <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:33:00] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s.  <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:38:56] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:38:56] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:40:10] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:40:10] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:40:10] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:40:11] [ERROR] [KinesiologoDaoH2:84] Error de Sintaxis en sentencia SQL "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"
+Syntax error in SQL statement "DELETE FROM KINESIOLOGOS WHERE ID=?[*])"; SQL statement:
+DELETE FROM KINESIOLOGOS WHERE ID=?) [42000-214]
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:40:11] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:77] Se modificó 1fila/s. El registro <ID:1> ha sido eliminado.
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:41:33] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:77] Se modificó 1fila/s. El registro <ID:1> ha sido eliminado.
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Crucifijo, Sylvan> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 17:42:13] [INFO ] [KinesiologoDaoH2:43] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 3

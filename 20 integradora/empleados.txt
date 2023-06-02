@@ -1,0 +1,4 @@
+Pablo;Vidal;1;1000
+Vanina;Simon;2;2000
+Franco;Gonzalo;3;3000
+Elias;nnn;4;4000

@@ -1,0 +1,22 @@
+[2023-05-29 23:02:31] [INFO ] [OdontologoDaoArray:31] Se agregó <Garay, Cacho> al registro. Se le asignó el ID: 0
+[2023-05-29 23:02:31] [INFO ] [OdontologoDaoArray:31] Se agregó <Declay, Larry> al registro. Se le asignó el ID: 1
+[2023-05-29 23:02:31] [INFO ] [OdontologoDaoArray:31] Se agregó <Vidal, Pablo> al registro. Se le asignó el ID: 2
+[2023-05-29 23:03:02] [INFO ] [OdontologoDaoArray:31] Se agregó <Garay, Cacho> al registro. Se le asignó el ID: 1
+[2023-05-29 23:03:02] [INFO ] [OdontologoDaoArray:31] Se agregó <Declay, Larry> al registro. Se le asignó el ID: 2
+[2023-05-29 23:03:02] [INFO ] [OdontologoDaoArray:31] Se agregó <Vidal, Pablo> al registro. Se le asignó el ID: 3
+[2023-05-29 23:05:19] [INFO ] [OdontologoDaoArray:31] Se agregó <Garay, Cacho> al registro. Se le asignó el ID: 1
+[2023-05-29 23:05:19] [INFO ] [OdontologoDaoArray:31] Se agregó <Declay, Larry> al registro. Se le asignó el ID: 2
+[2023-05-29 23:05:19] [INFO ] [OdontologoDaoArray:31] Se agregó <Vidal, Pablo> al registro. Se le asignó el ID: 3
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoH2:39] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoH2:39] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 23:09:58] [ERROR] [OdontologoService:36] El número de matrícula debe estar entre 0 y 10000
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoH2:39] Se modificó 1 fila/s. <Vidal, Pablo> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoH2:39] Se modificó 1 fila/s. <Amado, Marcos> agregado al registro. Se le asignó el ID: 1
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoH2:39] Se modificó 1 fila/s. <Gazza, Elias> agregado al registro. Se le asignó el ID: 2
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoH2:39] Se modificó 1 fila/s. <Vidal, Pablo> agregado al registro. Se le asignó el ID: 3
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoArray:31] Se agregó <Garay, Cacho> al registro. Se le asignó el ID: 1
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoArray:31] Se agregó <Declay, Larry> al registro. Se le asignó el ID: 2
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoArray:31] Se agregó <Vidal, Pablo> al registro. Se le asignó el ID: 3
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoArray:31] Se agregó <Garay, Cacho> al registro. Se le asignó el ID: 1
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoArray:31] Se agregó <Declay, Larry> al registro. Se le asignó el ID: 2
+[2023-05-29 23:09:58] [INFO ] [OdontologoDaoArray:31] Se agregó <Vidal, Pablo> al registro. Se le asignó el ID: 3

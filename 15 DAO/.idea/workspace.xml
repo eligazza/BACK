@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90fb6ed-1c51-4b11-9da7-e8dc5459137f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../---machetes/lgo4j_properties.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../---machetes/log4j Logger.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../09 Integrador/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/clase14-diagrama.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/clase14-diagrama.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/create_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/dao/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/dao/MedicamentoDAOH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/dao/previous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/modelos/Medicamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/servicios/MedicamentoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/tests/MedicamentoDAOH2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../14 DAO/DAO/src/tests/MedicamentoServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../00 TP INTEGRADOR/daigrama-integrador.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../00 TP INTEGRADOR/daigrama-integrador.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09 Integrador/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../09 Integrador/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lgo4j_properties.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="d90fb6ed-1c51-4b11-9da7-e8dc5459137f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,18 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/BACK/15 DAO&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/BACK/14 DAO",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ar.com.dh.model" />
